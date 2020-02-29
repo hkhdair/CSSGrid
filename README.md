@@ -9,9 +9,9 @@ A random text here
 ## this is heading 2 
 A random text here
 
-<strong>bold</bold>
+<strong>bold</bold> this is also **bold**
 
-<i>italic</italic>
+<i>italic</italic> this is also *italic*
 
 
 This a code in Javascript
